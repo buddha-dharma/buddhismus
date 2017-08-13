@@ -2,4 +2,4 @@
 - [Deutsche Buddhistische Union](http://www.buddhismus-deutschland.de/)
 - [Buddha-Haus Audiovorträge Deutsch](https://www.buddha-haus-shop.de/info/Audiovortraege-Deutsch.html)
 ## Videos
-- [Metta-Meditation — Ayya Khema](https://www.youtube.com/watch?v=jrk6PDL6Ua0)# buddhismus
+- [Metta-Meditation — Ayya Khema](https://www.youtube.com/watch?v=jrk6PDL6Ua0)
