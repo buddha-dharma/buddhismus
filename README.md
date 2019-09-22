@@ -8,3 +8,4 @@
 - [Study Buddhism](https://studybuddhism.com/de)
 ## Videos
 - [Metta-Meditation — Ayya Khema](https://www.youtube.com/watch?v=jrk6PDL6Ua0)
+- [Einführung in die Meditation - Ayya Khema](https://www.youtube.com/watch?v=dZYa7Kqgers)
