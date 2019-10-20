@@ -1,4 +1,6 @@
-# Buddhismus
+# Resourcen zum Buddhismus
+Eine Liste kostenloser und freier Resourcen zum Thema Meditation und Buddhismus.
+
 - [Deutsche Buddhistische Union](http://www.buddhismus-deutschland.de/)
 - [Buddha-Haus Audiovorträge](https://www.buddha-haus-shop.de/info/Audiovortraege-Deutsch.html)
 - [Info zu Tibetischen Buddhismus](https://info-buddhismus.de/)
