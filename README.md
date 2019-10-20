@@ -6,6 +6,7 @@ Eine Liste kostenloser und freier Resourcen zum Thema Meditation und Buddhismus.
 - [Info zu Tibetischen Buddhismus](https://info-buddhismus.de/)
 - [Information zu buddhistischen Sekten](https://www.buddhistische-sekten.de/)
 - [Orientierungshilfe der DBU](https://www.buddhismus-deutschland.de/wp-content/uploads/Orientierungshilfe-Neues-Logo.pdf)
+- [Dharma Resourcen von Tenzin Peljor](https://www.tenzinpeljor.de/#Dharma)
 ## Kurse
 - [Study Buddhism](https://studybuddhism.com/de)
 ## Videos
